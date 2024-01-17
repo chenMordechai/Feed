@@ -1,0 +1,17 @@
+.comment-index {
+    background-color: #f9f9f9;
+    padding: 40px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.comment-index .add-comment-container {
+    background-color: #efefef;
+    padding: 20px;
+}
+
+.comment-index .comment-container {
+    background-color: #fff;
+    padding: 20px;
+}
